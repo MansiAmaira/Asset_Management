@@ -1,4 +1,4 @@
-# Asset Management System - Frontend
+# Asset Management System - Full Stack Project
 
 A modern, enterprise-grade Asset Management System built with React, Redux, TypeScript, and Tailwind CSS. This frontend application integrates with a Spring Boot backend to provide comprehensive asset tracking and management capabilities.
 
