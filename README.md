@@ -133,9 +133,15 @@ Your Spring Boot backend should have these endpoints (as shown in the provided c
 │   │   ├── store/          # Redux store and slices
 │   │   ├── lib/            # Utilities and helpers
 │   │   └── App.tsx         # Main application component
-├── server/
-│   ├── routes.ts           # Express proxy routes
-│   └── index.ts            # Express server setup
+├── server/src/main/java/..
+    ├── controller/  # REST endpoints (/api/...)
+    ├── service/     # Business logic
+    ├── repository/  # Database access
+    ├── entity/      # JPA entities
+    ├── dto/         # Data transfer objects
+└── pom.xml
+│   
+│ 
 ├── shared/
 │   └── schema.ts           # TypeScript types and Zod schemas
 └── design_guidelines.md    # Design system documentation
