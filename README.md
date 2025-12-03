@@ -221,3 +221,8 @@ If authentication fails:
 ## License
 
 This project is part of an enterprise asset management system.
+![Screenshot_2025-11-18_23_25_06](https://github.com/user-attachments/assets/85f4b560-a5b9-4685-bbe8-a234012e7292)
+![Screenshot_2025-11-18_23_24_34](https://github.com/user-attachments/assets/b4d103f8-778e-4780-bd0d-1a0e4f5da0cb)
+![Screenshot_2025-11-18_23_24_03](https://github.com/user-attachments/assets/8665b590-f68d-46e6-a3d9-c8394a479d4b)
+
+
